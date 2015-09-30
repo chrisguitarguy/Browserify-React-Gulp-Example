@@ -9,10 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "babelify": "^6.3.0",
     "gulp": "^3.9.0",
     "gulp-browserify": "^0.5.1",
     "gulp-rename": "^1.2.2",
     "jquery": "^2.1.4",
+    "react": "^0.13.3",
     "yargs": "^3.26.0"
   }
 }
