@@ -1,13 +1,10 @@
 {
-  "name": "browserify-learn",
+  "name": "browserify-react-gulp-learn",
   "version": "1.0.0",
   "description": "Learning about Browserify & React",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
+  "author": "Christopher Davis",
+  "license": "MIT",
   "dependencies": {
     "babelify": "^6.3.0",
     "gulp": "^3.9.0",
